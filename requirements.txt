@@ -1,0 +1,6 @@
+scanpy
+anndata
+pandas
+numpy
+scipy
+Pillow
