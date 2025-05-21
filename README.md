@@ -13,4 +13,4 @@ A lightweight tool to manually load 10x Genomics Visium spatial transcriptomics 
 ## Installation
 
 ```bash
-pip install git+https://github.com/yourusername/manual-visium-loader.git
+pip install git+https://github.com/IbrahimFangary/manual-visium-loader.git
