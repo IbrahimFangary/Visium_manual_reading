@@ -8,6 +8,7 @@ import numpy as np
 import json
 from PIL import Image
 import os 
+import gzip
 
 def load_manual_spatial_data(
     adata,
